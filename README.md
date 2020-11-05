@@ -3,5 +3,5 @@
 ### Build Real Project
 please visit: https://tinder-clone-a30a0.web.app/
 
-🚀 you can watch my favorite video on youtube for teaching how to code this project
-</br> Clever Programmer Youtube Channel: https://www.youtube.com/watch?v=ktjafK4SgWM
+🚀 You can watch my favorite video on youtube for teaching how to code this project
+</br></br> Clever Programmer Youtube Channel: https://www.youtube.com/watch?v=ktjafK4SgWM
