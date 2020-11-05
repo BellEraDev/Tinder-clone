@@ -1,4 +1,4 @@
-# Hey! This is my first-app ( Tinder Clone ) that i deploy on firebase
+# Hey! This is my First-App ( Tinder Clone ) that i deploy on Firebase
 
 ### 🚀 Build Real Project
 please visit: https://tinder-clone-a30a0.web.app/
