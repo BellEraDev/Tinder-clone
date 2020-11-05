@@ -4,4 +4,4 @@
 please visit: https://tinder-clone-a30a0.web.app/
 </br></br>
 📌 You can watch my favorite video on youtube for teaching how to code this project
-Clever Programmer Youtube Channel: https://www.youtube.com/watch?v=ktjafK4SgWM
+</br> Clever Programmer Youtube Channel: https://www.youtube.com/watch?v=ktjafK4SgWM
